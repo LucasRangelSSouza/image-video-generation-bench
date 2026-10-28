@@ -1,0 +1,23 @@
+{
+ "flux_best_gpu": "L40S",
+ "flux_best_s": 27.221155399,
+ "flux_failed_gpu": "RTX 3090",
+ "flux_gb10_s": 102.769893566,
+ "ltx_best_gpu": "RTX 5090",
+ "ltx_best_s": 0.8,
+ "ltx_gb10_s": 4.5,
+ "ltx_load_max_s": 276.0,
+ "ltx_load_min_s": 153.3,
+ "ltx_load_over_gen": 162.54545454545453,
+ "nvenc_over_x264_max": 3.9573643410852717,
+ "nvenc_over_x264_min": 1.30045871559633,
+ "sdxl_cheapest_gpu": "RTX 3090",
+ "sdxl_cheapest_usd_per_1000": 0.019079835390946494,
+ "sdxl_fastest_gpu": "H100 NVL",
+ "sdxl_fastest_s": 0.091,
+ "sdxl_gain_gb10": 1.1645885286783042,
+ "sdxl_gain_max": 2.959016393442623,
+ "sdxl_gain_min": 1.1645885286783042,
+ "x264_4090_1080p": 2.58,
+ "x264_5090_1080p": 9.61
+}

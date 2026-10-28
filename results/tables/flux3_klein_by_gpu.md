@@ -1,0 +1,7 @@
+| gpu | median_wall_s_per_image |
+|---|---|
+| L40S | 27.2 |
+| RTX 5090 | 27.4 |
+| RTX PRO 6000 | 27.6 |
+| RTX 4090 | 39.1 |
+| GB10 | 102.8 |
